@@ -1,0 +1,170 @@
+
+.body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+ }
+ 
+ .card {
+     width:540px;
+     border: 1px lightgrey solid;
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     border-radius: 20px;
+     margin: 50px auto;
+     padding: 10px;
+ }
+ 
+ .card-sea {
+     width:540px;
+     /* border: 1px lightgrey solid; */
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     border-radius: 20px;
+     margin: 50px auto;
+ }
+ 
+ 
+ .card-img {
+     width: 100%;
+     border-radius: 10px;
+ }
+ 
+ .card .p {
+     color: gray;
+     font-size:20px;
+ 
+ }
+ 
+ .card-offer {
+     background-color:rgb(27, 90, 185);
+     color: white;
+     font-size:18px;
+     padding: 5px;
+     width: 38%;
+     position: absolute;
+     left:0;
+     bottom:10px;
+ }
+ 
+ .image-wrap {
+     position: relative;
+ }
+ 
+ .card-time {
+     background-color:white;
+     color: black;
+     padding: 4px;
+     border-radius: 5px;
+     position: absolute;
+     right:5px;
+     bottom:10px;
+     font-size: large
+ }
+ 
+ .card-promot {
+     background-color:rgb(85, 67, 67);
+     color:white;
+     padding:2px;
+     border-radius: 5px;
+     position: absolute;
+     top:5px;
+     left:5px;
+     font-size: medium;
+ }
+ 
+ .btn{
+     background-color: #fff;
+     border: none;
+     border-radius: 40px;
+     padding: 16px 30px;
+     font-size: 16px;
+     position: absolute;
+     top: 80%;
+     left:200px;
+ }
+ 
+ .bg-tag {
+     color: white;
+     font-size: 20px;
+     margin-bottom: 20px;
+     position: absolute;
+     top: 40%;
+     left:150px;
+ }
+ 
+ .bg-content {
+     color: white;
+     position: absolute;
+     top: 55%;
+     left:35px;
+ }
+ 
+ .name {
+     color: white;
+     position: absolute;
+     top: 30px;
+     left: 190px;
+     font-size: xxx-large;
+     font-weight: bold;
+     font-style: italic;
+ }
+ 
+ .zomato-tag {
+     color: white;
+     position: absolute;
+     top: 120px;
+     left: 70px;
+     font-size: 20px;
+ }
+ 
+ .zomato-search {
+     position: absolute;
+     top: 190px;
+     left: 70px;
+     padding: 10px;
+     width: 70%;
+     border-radius: 10px;
+     border: none;
+ }
+ 
+ .profile {
+     width:540px;
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     margin: 50px auto;
+     /* border-bottom: 1px solid lightgrey;
+     border-left: 1px solid lightgrey;
+     border-right: 1px solid lightgrey; */
+     border: 2px solid lightgrey;
+     border-top-left-radius: 16px;
+     border-top-right-radius: 16px;
+ }
+ 
+ .prof-bg-img {
+     width: 100%;
+     height: 50%;
+     border-top-left-radius: 16px;
+     border-top-right-radius: 16px;
+ }
+ 
+ .prof-user {
+     width: 100px;
+     border-radius: 50%;
+     position: absolute;
+     bottom: -30px;
+     left: 210px;
+     border: 3px solid white;
+ }
+ 
+ .user-info {
+     text-align: center;
+ }
+ 
+ .user-name {
+     font-size: 30px;
+     font-weight: bold;
+     margin-bottom: 2px;
+ }
+ 
+ .user-designation {
+     margin-top:2px;
+     font-size:20px;
+     color: grey;
+ }
+ 
